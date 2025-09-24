@@ -1,0 +1,3 @@
+Name: Chandrani Janaki Latha
+Course: BSC-CS
+Learned about GitHub: Create the file,Uplode the file,Edit the file
